@@ -18,7 +18,8 @@ I'm a **Computer Science Student** and aspiring **AI/ML & Data Science Engineer*
 - **HackerRank**: Python & SQL (Basic)
 
 ### 🤝 Let's Connect:
-- [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- [LinkedIn](https://github.com/Pranav-syntax)
+- [portfolio](https://pn-portfolio.vercel.app/)
 - 💬 Ask me about: Python, AI ethics, or car specs (especially engine cc and tax laws!)
 
 ---
