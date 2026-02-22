@@ -20,7 +20,7 @@ I'm a **Computer Science Student** and aspiring **AI/ML & Data Science Engineer*
 ### 🤝 Let's Connect:
 - [LinkedIn](https://github.com/Pranav-syntax)
 - [portfolio](https://pn-portfolio.vercel.app/)
-- 💬 Ask me about: Python, AI ethics, or car specs (especially engine cc and tax laws!)
+
 
 ---
 "Building software is a craft; thinking about its impact is a responsibility."
